@@ -28,5 +28,5 @@ h1 {
 }
 
 #neck {
-  border: 8px solid #a2b0ab;
+  border-image-outset: 8px solid #a2b0ab;
 }
