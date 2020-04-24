@@ -28,6 +28,7 @@ h1 {
 }
 
 #neck {
+  position: relative;
   border: 8px solid #a2b0ab;
  
 }
