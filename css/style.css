@@ -42,3 +42,7 @@ figure img {
 figure img:hover {
   border: 5px solid #a2b0ab;
 }
+
+footer {
+  text-align: right;
+}
