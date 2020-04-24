@@ -30,7 +30,7 @@ h1 {
 #neck {
   position: relative;
   border: 8px solid #a2b0ab;
-  margin: 0 auto;
+  margin-left: 100px;
 }
 
 h2 {
