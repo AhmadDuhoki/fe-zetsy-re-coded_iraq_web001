@@ -14,8 +14,7 @@ body {
 }
 
 .wrapper {
-  display: block;
-	width: 960px;
+	width: 1000px;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
