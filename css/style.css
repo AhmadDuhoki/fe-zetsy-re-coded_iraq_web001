@@ -36,5 +36,9 @@ h2 {
 }
 
 figure img {
-  
+  border: 5px solid black;
+}
+
+figure img:hover {
+  border: 5px solid #a2b0ab;
 }
