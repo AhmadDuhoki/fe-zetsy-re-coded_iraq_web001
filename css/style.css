@@ -27,7 +27,7 @@ h1 {
   color: #a2b0ab;
 }
 
-#neck {
+.neck {
   position: relative;
   border: 8px solid #a2b0ab;
   
